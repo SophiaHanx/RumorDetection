@@ -1,0 +1,3 @@
+*.js linguist-language=Jupyter Notebook
+*.css linguist-language=Jupyter Notebook
+*.html linguist-language=Jupyter Notebook
